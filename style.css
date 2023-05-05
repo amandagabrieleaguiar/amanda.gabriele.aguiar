@@ -13,8 +13,8 @@ justify-content: space-around;
 .cabecalho-imagem
 {
   display: inline-block; 
-  width: 400px;
-  height: 300px;
+  width: auto;
+  height: auto;
 
 
 
