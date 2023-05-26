@@ -1,7 +1,7 @@
 .cabecalho {
 
 display:inline-block
-justify-content:flex
+
 
 
 
@@ -11,7 +11,7 @@ justify-content:flex
 
 .cabecalho-imagem
 {
-  display: inline-block; 
+
   width: 1000px;
   height: auto;
  
