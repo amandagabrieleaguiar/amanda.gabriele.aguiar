@@ -1,10 +1,22 @@
 .cabecalho {
 
+display: flex;
+justify-content: space-around;
+
+
+
+
 }
+
 
 .cabecalho-imagem
 {
   display: inline-block; 
+  width: 500px;
+  height: auto;
+ 
+
+
 }
 
 
